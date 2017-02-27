@@ -72,7 +72,7 @@ recursive(paths.appBuild, (err, fileNames) => {
   build(previousSizeMap);
 
   // Merge with the public folder
-  copyPublicFolder();
+  // copyPublicFolder();
 });
 
 // Print a detailed summary of build files.

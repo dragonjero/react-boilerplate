@@ -1,0 +1,6 @@
+{
+  "/api/v3/me/:resource/:id": "/:resource/:id",
+  "/api/v3/me/:resource/": "/:resource/",
+  "/api/v3/licenses/:id": "/licenses/:id",
+  "/api/v3/transcript": "/transcript"
+}
